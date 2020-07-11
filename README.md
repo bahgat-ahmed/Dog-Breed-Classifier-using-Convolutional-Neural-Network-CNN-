@@ -6,11 +6,9 @@
 
 # Dog Breed Classifier using CNN
 
-This is one of the projects I've built in Udacity Deep Learning Nanodegree.
+This is one of the projects I've built in Udacity **Deep Learning Nanodegree**.
 
 A lot of this readme is taken exactly from the project description made by Udacity and I have just made small modifications to their description and put it in this readme.
-
-![](images/Labrador_retriever_06457.jpg)
 
 ## Project Overview
 
